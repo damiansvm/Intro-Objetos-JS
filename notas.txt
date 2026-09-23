@@ -1,0 +1,4 @@
+1. NodeJs permite ejecutar javascript fuera del navegador
+2. El repo sirve para ejecutar cosas rapido, no para construir proyectos
+3. TypeOf sirve para ver el tipo de dato de una variable
+4. Node sirve para iniciar un programa utilizando nodejs
